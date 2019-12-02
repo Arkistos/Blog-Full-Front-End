@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Libre Baskerville";
+  font-weight: normal;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#post {
+  background-color: #e6efff;
+  padding-top: 30px;
+}
+
+#header {
+  margin-bottom: 30px;
+}
+
+#cardPreview {
+  margin-bottom: 50px;
+}

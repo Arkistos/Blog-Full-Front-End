@@ -1,0 +1,28 @@
+{
+  "Articles": [
+    {
+      "id": "1",
+      "title": "Une semaine dans la Tech",
+      "text": "<h3>Google met la pression sur ses employé</h3><p>Après plusieurs mois de revendications des employés de Google vis à vis de leur entreprise  à cause des rumeurs liées à des cas de harcèlement sexuel, de la censure spécifique pour le marché chinois et du partenariat avec l’armé américaine pour son programme de création de drones. Google semble donc se débarrasser petit à petit des éléments gênants. Et  de nouveau quatre employés font les frais de se « grand ménage », viré pour violation de la politique sur la sécurité des données. C’est dernier événement font monter la grogne chez les employés qui accusent celle ci d’anti-syncalisme.</p><h3>Twitter vaut faire le ménage</h3><p>Après avoir annoncé en début de semaine ça volonté supprimer les comptes inactifs du réseau, Twitter à subit une vague de mécontentement notamment de personnes ayant perdu des proches et voulant garder en ligne le compte de leur proche décédé. La réaction de Twitter ne c’est pas fait attendre puisque dans la foulé ils ont annoncé d’abord mettre en place une nouvelle fonctionnalité permettant de commémorer les membres du réseau décédés à la suite de quoi ils prévoient d’enlever les comptes inactifs afin de libérer les handles squatté. Reste la question du poids des tweet dans l’histoire et de la volonté ou non de tous les preserver.</p><h3>Qwant encore dans la tourmente </h3><p>Suite à leur nouvelle perte d’argent et à un nouveau bilan négatif relatif à leurs objectifs. Le moteur de recherche français serait en passe de changer de gouvernance, une décision qui pourrait peut être mené à des changement de de politique pour cette entreprise qui souhaite s’affirmer comme le moteur de recherche qui respecte la vie privé.</p>",
+      "date": "30/11/2019"
+    },
+    {
+      "id": "2",
+      "title": "secondarticle",
+      "text": "text2<br/>coucou",
+      "date": "25/11/2019"
+    },
+    {
+      "id": "3",
+      "title": "troisieme",
+      "text": "troitoreiegrgregggzgegrezgeggzergrezggegrgzergerzgeerrezgregezgzerggezrgzzzzzzzzzzzzzzzz",
+      "date": "25/11/2019"
+    },
+    {
+      "id": "4",
+      "title": "4erere",
+      "text": "tffarferfze",
+      "date": "25/11/2019"
+    }
+  ]
+}
